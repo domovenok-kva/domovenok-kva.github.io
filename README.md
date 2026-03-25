@@ -1,6 +1,5 @@
 # Добрый день! Меня зовут Вера
-В этом репозитории собраны мои ученические работы на python.
-
+<h3>В этом репозитории собраны мои ученические работы на python.</h3>
 
 ## 🛠 Stack & skills
 
@@ -32,9 +31,20 @@
 ![FIGMA](https://img.shields.io/badge/figma-2F4F4F?style=for-the-badge&logo=figma&logoColor=white)
 ![YANDEX TRACKER](https://img.shields.io/badge/Yandex_Tracker-2F4F4F?style=for-the-badge&logo=Ya&logoColor=white)
 
-## 🔗 Примеры работы Auto
-* 
+## 🔗 Примеры работ Auto
 
+* Юнит-тесты:
+   * [Спринт 4: Основы Юнит-тестирования](https://github.com/domovenok-kva/Sprint_4)
+   * [Дипломный проект 1](https://github.com/domovenok-kva/Diplom_1)
+* UI-тестирование:
+  * [Спринт 5: Основы UI-тестирования](https://github.com/domovenok-kva/Sprint_5)
+  * [Спринт 11_1: Проектный месяц](https://github.com/domovenok-kva/Sprint_n)
+* Тестирование API:
+  * [Спринт 7: Основы API-тестировнаия](https://github.com/domovenok-kva/Sprint_7)
+  * [Дипломный проект 2](https://github.com/domovenok-kva/Diplom_2)
+  * [Спринт 11_2: Проектный месяц](https://github.com/domovenok-kva/Sprint_m)
+* Кроссбраузерное тестирование веб-приложения.
+  * [Дипломный проект 3](https://github.com/domovenok-kva/Diplom_3)
 ## 🔗 Примеры работы Manual
 
 
