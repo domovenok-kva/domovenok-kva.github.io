@@ -45,7 +45,8 @@
   * [Спринт 11_2: Проектный месяц](https://github.com/domovenok-kva/Sprint_m)
 * Кроссбраузерное тестирование веб-приложения.
   * [Дипломный проект 3](https://github.com/domovenok-kva/Diplom_3)
-## 🔗 Примеры работы Manual
+
+[![domovenok-kva's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=domovenok-kva=dark)](https://github.com/domovenok-kva/leetcode-stats)
 
 
 
