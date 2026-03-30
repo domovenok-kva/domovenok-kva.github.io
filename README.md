@@ -46,7 +46,7 @@
 * Кроссбраузерное тестирование веб-приложения.
   * [Дипломный проект 3](https://github.com/domovenok-kva/Diplom_3)
 
-[![domovenok-kva's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=domovenok-kva=dark)](https://github.com/domovenok-kva/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/domovenokkva?theme=nord)
 
 
 
