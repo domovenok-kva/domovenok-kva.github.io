@@ -1,5 +1,5 @@
 # Добрый день! Меня зовут Вера
-<h3>В этом репозитории собраны мои ученические работы на python.</h3>
+<h3>Здесь собраны мои ученические работы на python.</h3>
 
 ## 🛠 Stack & skills
 
@@ -46,7 +46,7 @@
 * Кроссбраузерное тестирование веб-приложения.
   * [Дипломный проект 3](https://github.com/domovenok-kva/Diplom_3)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/domovenokkva?theme=nord)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/domovenokkva?theme=nord)](https://leetcode.com/domovenokkva)
 
 
 
